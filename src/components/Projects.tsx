@@ -16,7 +16,7 @@ const Projects = () => {
       title: "IoT-Based Water Level Indicator with OLED & Blynk",
       description: "Smart water level monitoring system using IoT sensors, OLED display, and Blynk platform for remote monitoring.",
       tags: ["ESP32", "Blynk", "OLED", "IoT"],
-      image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80",
+      image: "https://images.unsplash.com/photo-1554695119-286020a2b447?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       github: "#",
       demo: "#",
     },
