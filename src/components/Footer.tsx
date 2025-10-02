@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="flex items-center gap-2 text-foreground/70">
             <span>Made with</span>
             <Heart size={16} className="text-primary fill-primary" />
-            <span>by John Developer</span>
+            <span>by DineshKumar S</span>
           </div>
 
           <div className="flex items-center gap-6">
